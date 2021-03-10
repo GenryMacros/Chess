@@ -1,0 +1,7 @@
+C:\Users\LightFire\source\repos\Chess\Chess\bin\Release\Chess.exe.config
+C:\Users\LightFire\source\repos\Chess\Chess\bin\Release\Chess.exe
+C:\Users\LightFire\source\repos\Chess\Chess\bin\Release\Chess.pdb
+C:\Users\LightFire\source\repos\Chess\Chess\obj\Release\Chess.csprojAssemblyReference.cache
+C:\Users\LightFire\source\repos\Chess\Chess\obj\Release\Chess.csproj.CopyComplete
+C:\Users\LightFire\source\repos\Chess\Chess\obj\Release\Chess.exe
+C:\Users\LightFire\source\repos\Chess\Chess\obj\Release\Chess.pdb
